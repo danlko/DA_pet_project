@@ -40,8 +40,9 @@
 *Таблиця Address*              
     
 - Дані з колонки "state" було приведено до одного стилю написання штатів.
-    Дані після трансформації:
-      ![PostCleaningDataProfiling](assets/PostCleaningDataProfiling.png)
+-------------------------------------------------------------------------
+Дані після трансформації:
+![PostCleaningDataProfiling](assets/PostCleaningDataProfiling.png)
       
 ### 5. Data Analysis
 
