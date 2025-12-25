@@ -14,6 +14,7 @@
 Встановлення проблеми - задача очистити дані, підготувати до аналізу, проаналізувати
 ### 2. Data collection
 Завантаження ключових таблиць
+![DataCollection](assets/DataSource.png)
 ### 3. Data Profiling
  Аналіз таблиць. Аркуш META Таблиця "Data Profiling". ![DataProfiling](assets/DataProfiling.png)
 ### 4. Data Transformation
